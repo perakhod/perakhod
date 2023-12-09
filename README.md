@@ -4,7 +4,6 @@
 
 😍I'm literally Ryan Gosling.
 
-[perakhod.github.io](perakhod.github.io)
 
 [Repository of AnimateDiff](https://github.com/guoyww/animatediff)
 
