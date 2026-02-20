@@ -38,7 +38,7 @@ Spring · Maven
 CMake · Make · POSIX IPC · pthreads · syslog
 
 **Tools**  
-Docker · Git · ANTLR/ANTLR4
+Docker · Git · ANTLR/ANTLR4 · LaTeX
 
 **Cross-platform / Game dev**  
 Flutter (Dart) · Unity (C#)
