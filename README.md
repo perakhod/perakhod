@@ -7,25 +7,46 @@ I build end-to-end projects in Python (ML/data), backend, databases, and embedde
 
 ## Tech Stack
 
-**Python / ML:** NumPy • Pandas • Matplotlib • scikit-learn • TensorFlow • PyTorch • OpenCV • spaCy • Stanza  
-**Sim/Vis:** pygame • pysocialforce  
-**Desktop:** PySide6 • pyqtgraph • PyQt5  
-**Backend:** FastAPI • Flask (+Login, SocketIO) • SQLAlchemy • Pydantic • requests • python-dotenv • paho-mqtt • firebase-admin  
+**Python / ML & Data**  
+NumPy · Pandas · Matplotlib · scikit-learn · TensorFlow · PyTorch · OpenCV · spaCy · Stanza
 
-**Databases:** PostgreSQL • SQLite • MongoDB • Firebase (Admin SDK)  
+**Backend (Python)**  
+FastAPI · Flask (Login, SocketIO) · SQLAlchemy · Pydantic · requests · python-dotenv · paho-mqtt · firebase-admin
 
-**Tools:** Docker • Git • ANTLR/ANTLR4 • CMake • Make • POSIX IPC • pthreads • syslog  
-**Java:** Spring • Maven  
-**Web:** TypeScript • JavaScript • Express.js  
-**Mobile:** Android (Kotlin) • MPAndroidChart • HiveMQ MQTT Client  
-**Embedded/IoT:** ESP32 / ESP-IDF (C) • Wi-Fi • MQTT • cJSON • mbedTLS (SHA-256) • NVS • FreeRTOS • ESP32-S3 camera pipeline  
-**Cross-platform:** Flutter (Dart)  
-**Game dev:** Unity (C#)
+**Sim / Visualization**  
+pygame · pysocialforce
+
+**Desktop (Python GUI)**  
+PySide6 · pyqtgraph · PyQt5
+
+**Databases / Storage**  
+PostgreSQL · SQLite · MongoDB · Firebase (Admin SDK)
+
+**Embedded / IoT**  
+ESP32 / ESP-IDF (C) · Wi-Fi · MQTT · cJSON · mbedTLS (SHA-256) · NVS · FreeRTOS · ESP32-S3 camera pipeline
+
+**Mobile**  
+Android (Kotlin) · MPAndroidChart · HiveMQ MQTT Client
+
+**Web**  
+TypeScript · JavaScript · Express.js
+
+**Java**  
+Spring · Maven
+
+**C / C++ & Systems**  
+CMake · Make · POSIX IPC · pthreads · syslog
+
+**Tools**  
+Docker · Git · ANTLR/ANTLR4
+
+**Cross-platform / Game dev**  
+Flutter (Dart) · Unity (C#)
 
 ---
 
 ## Languages
-English (C1) • Polish (C1) • Belarusian (Native) • Russian (Native)
+English (C1) · Polish (C1) · Belarusian (Native) · Russian (Native)
 
 ---
 
