@@ -46,7 +46,7 @@ Flutter (Dart) · Unity (C#)
 ---
 
 ## Languages
-English (C1) · Polish (C1) · Belarusian (Native) · Russian (Native)
+English (B2+) · Polish (C1) · Belarusian (Native) · Russian (Native)
 
 ---
 
